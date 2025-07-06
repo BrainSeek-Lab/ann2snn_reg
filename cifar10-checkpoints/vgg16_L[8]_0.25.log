@@ -1,0 +1,7 @@
+[2025-06-18 09:10:47,699][main_train.py][line:54][INFO] start training!
+[2025-06-18 09:11:03,480][main_train.py][line:64][INFO] Epoch:[0/300]  task_loss=2.09848  qcfs_loss=0.071610  acc=20.772
+[2025-06-18 09:11:04,548][main_train.py][line:73][INFO] Epoch:[0/300]  Test acc=35.340
+
+[2025-06-18 09:11:20,367][main_train.py][line:64][INFO] Epoch:[1/300]  task_loss=1.83667  qcfs_loss=0.043879  acc=33.054
+[2025-06-18 09:11:21,391][main_train.py][line:73][INFO] Epoch:[1/300]  Test acc=40.040
+
